@@ -8,3 +8,5 @@ func main() {
 	cli := CLI{bc}
 	cli.Run()
 }
+
+// go run .
