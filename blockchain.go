@@ -2,7 +2,6 @@ package main
 
 import (
 	"log"
-
 	bolt "go.etcd.io/bbolt"
 )
 
